@@ -1,2 +1,2 @@
 # LeetCode
-just record for myself
+记录自己的刷题历程。
